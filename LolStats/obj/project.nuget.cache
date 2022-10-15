@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJYp/i1DBrkA0Qv1K2LFDpWHgZggcrZqq4UZVoKgq6W/mP0pZfwtzwVXHS1B1OGghEtqThlZT7qRKTWjalLpSQ==",
+  "success": true,
+  "projectFilePath": "C:\\VsProjects\\LolStats\\LolStats\\LolStats.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ordon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
