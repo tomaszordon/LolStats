@@ -21,3 +21,4 @@ C:\VsProjects\LolStats\LolStats\obj\Debug\net6.0-windows\LolStats.genruntimeconf
 C:\VsProjects\LolStats\LolStats\obj\Debug\net6.0-windows\ref\LolStats.dll
 C:\VsProjects\LolStats\LolStats\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
 C:\VsProjects\LolStats\LolStats\obj\Debug\net6.0-windows\LolStats.csproj.CopyComplete
+C:\VsProjects\LolStats\LolStats\bin\Debug\net6.0-windows\LolStats.dll.config
